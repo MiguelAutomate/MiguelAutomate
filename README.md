@@ -4,6 +4,13 @@
 
 ### **Transforming Operations through Secure AI & Automation**
 
+### **Education & Certifications**
+
+* **B.S. Cybersecurity**, Western Governors University (Expected 2027)
+* **CompTIA Security+** (2023) - *Demonstrates foundational cybersecurity knowledge and skills.*
+* **CompTIA Network+** (2023) - *Validates expertise in networking concepts and infrastructure.*
+* **CompTIA A+** (2022) - *Confirms proficiency in IT hardware and software technologies.*
+
 ---
 
 ### **About Me**
@@ -51,17 +58,10 @@ Here are some projects that highlight my capabilities in AI, automation, and sec
 * **[AutoGen Studio 0.4 Agents](https://github.com/MiguelAutomate/AutoGen-Studio-0.4-Agents)** - Specialized agent implementations within AutoGen Studio, showcasing custom functionalities for focused automation tasks.
 * **[Ollama Prompt Injector](https://github.com/MiguelAutomate/Ollama-Prompt-Injector)** - A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications.
 * **Boost Bridge Acceleration** - (In Development) A multilingual retail platform integrating AI-driven automation to optimize sales processes and customer engagement.
+* **[Boost Bridge Acceleration](https://github.com/MiguelAutomate/Boost-Bridge-Acceleration)**
 
 ---
 
-### **Education & Certifications**
-
-* **B.S. Cybersecurity**, Western Governors University (Expected 2027)
-* **CompTIA Security+** (2023) - *Demonstrates foundational cybersecurity knowledge and skills.*
-* **CompTIA Network+** (2023) - *Validates expertise in networking concepts and infrastructure.*
-* **CompTIA A+** (2022) - *Confirms proficiency in IT hardware and software technologies.*
-
----
 
 ### **Let's Connect!**
 
