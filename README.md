@@ -15,7 +15,7 @@
 
 ### **About Me**
 
-As a Workflow Automation Specialist, I help businesses transform how they operate. My focus is on diving deep into a client's existing business processes those step by step sequences that define how work gets done. I then identify areas where manual, repetitive, or error-prone tasks are creating bottlenecks or wasting valuable time.
+As a Workflow Automation Specialist, I help businesses transform how they operate. My focus is on diving deep into a client's existing business processes those step by step sequences that define how work gets done. I then identify areas where manual, repetitive, or error prone tasks are creating bottlenecks or wasting valuable time.
 
 With that understanding, I design and build custom automation solutions using Python. This isn't about shoehorning a client into a rigid, off the shelf platform; it's about crafting tailored software that integrates seamlessly with their current systems. My ultimate goal is to empower businesses by making their operations more efficient, accurate, and scalable, allowing their teams to focus on strategic work rather than getting bogged down in routine tasks.
 
