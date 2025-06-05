@@ -15,9 +15,9 @@
 
 ### **About Me**
 
-As a Workflow Automation Specialist, I help businesses transform how they operate. My focus is on diving deep into a client's existing business processes those step by step sequences that define how work gets done. I then identify areas where manual, repetitive, or error prone tasks are creating bottlenecks or wasting valuable time.
+As a Workflow Automation Specialist, I help businesses transform how they operate. My focus is on diving deep into a client's existing business processes—those step-by-step sequences that define how work gets done. I then identify areas where manual, repetitive, or error-prone tasks are creating bottlenecks or wasting valuable time.
 
-With that understanding, I design and build custom automation solutions using Python. This isn't about shoehorning a client into a rigid, off the shelf platform; it's about crafting tailored software that integrates seamlessly with their current systems. My ultimate goal is to empower businesses by making their operations more efficient, accurate, and scalable, allowing their teams to focus on strategic work rather than getting bogged down in routine tasks.
+With that understanding, I design and build custom automation solutions using Python. This isn't about shoehorning a client into a rigid, off-the-shelf platform; it's about crafting tailored software that integrates seamlessly with their current systems. My ultimate goal is to empower businesses by making their operations more efficient, accurate, and scalable, allowing their teams to focus on strategic work rather than getting bogged down in routine tasks.
 
 ---
 
@@ -77,10 +77,10 @@ Here are some projects that highlight my capabilities in AI, automation, and sec
     - Specialized agent implementations within AutoGen Studio, showcasing custom functionalities for focused automation tasks.
 
 * **[Ollama Prompt Injector](https://github.com/MiguelAutomate/Ollama-Prompt-Injector)** 
-    - A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications.
+    - A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications, enhancing LLM security posture by identifying A types of vulnerabilities.
 
 * **[Boost Bridge Acceleration](https://github.com/MiguelAutomate/Boost-Bridge-Acceleration)** 
-    - (In Development) A multilingual retail platform integrating AI-driven automation to optimize sales processes and customer engagement.
+    - (In Development) A multilingual retail platform leveraging AI-driven automation to revolutionize sales processes and elevate customer engagement.
 
 ---
 
