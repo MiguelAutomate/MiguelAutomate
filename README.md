@@ -1,4 +1,4 @@
-# Miguel Automate
+# Miguel Ocampo
 
 ## AI Systems & Security Automation Architect
 
@@ -12,6 +12,33 @@ Securing systems, automating workflows, and bridging AI with infrastructure. Spe
 - Cloud Services & DevSecOps
 - LLM Integration & Prompt Engineering
 - MLOps & AI Infrastructure
+
+### Tech Stack
+
+**AI & Automation**
+- LangChain | AutoGen | Ollama | PyAutoGUI | OpenCV
+- Transformers | TensorFlow | PyTorch | Keras
+- Custom LLM Integration | Prompt Engineering
+
+**Infrastructure & Cloud**
+- AWS (EC2, S3, Lambda, CloudWatch) | Azure | GCP
+- Docker | Kubernetes | Terraform | Ansible
+- Linux | Apache | Nginx | PostgreSQL | MongoDB
+
+**Security Tools**
+- Nmap | Wireshark | Burp Suite | Metasploit
+- SIEM (Splunk, ELK) | IDS/IPS | pfSense
+- Custom Security Automation Tools
+
+### What I Do
+
+- Design and implement sophisticated AI agent systems for autonomous operations
+- Develop secure automation frameworks integrating LLMs with infrastructure
+- Create advanced security monitoring and response systems
+- Build custom tools for security testing and vulnerability assessment
+- Architect scalable cloud solutions with security-first approach
+- Implement MLOps pipelines for AI model deployment and monitoring
+- Develop custom integrations between security tools and business operations
 
 ### Featured Projects
 
