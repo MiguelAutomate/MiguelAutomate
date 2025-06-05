@@ -42,9 +42,13 @@ As an AI Systems & Security Automation Architect, I specialize in developing and
 ### **What I Do & How I Deliver Value**
 
 * **Architect & Deploy Advanced AI Agents:** I design, develop, and deploy sophisticated AI agent systems that autonomously manage complex tasks, from IT operations to security incident response.
+
 * **Fortify Systems with AI-Driven Security:** I build custom security automation frameworks that integrate LLMs to enhance threat detection, automate vulnerability assessments, and streamline incident remediation.
+
 * **Automate & Optimize Cloud Infrastructure:** I leverage Infrastructure as Code (Terraform, Ansible) to provision, configure, and manage highly secure and scalable cloud environments on AWS, Azure, and GCP.
+
 * **Implement Robust MLOps Pipelines:** I establish end-to-end MLOps pipelines for efficient deployment, monitoring, and continuous improvement of AI models, ensuring reliability and performance.
+
 * **Develop Bespoke Security Tools:** I create specialized tools for security testing, vulnerability assessment, and proactive threat hunting, significantly reducing manual effort and improving security posture.
 
 ---
