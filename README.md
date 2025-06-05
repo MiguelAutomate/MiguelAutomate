@@ -1,6 +1,6 @@
 # Miguel Automate
 
-## AI Systems & Security Automation Architect
+## DevOps Automation Specialist
 
 ### **Transforming Operations through Secure AI & Automation**
 
@@ -15,7 +15,9 @@
 
 ### **About Me**
 
-As an AI Systems & Security Automation Architect, I specialize in developing and implementing secure, scalable, and intelligent automation solutions. My expertise lies at the intersection of AI, cybersecurity, and infrastructure, where I build robust systems that enhance operational efficiency and mitigate risks. I'm passionate about leveraging cutting-edge AI technologies to create autonomous, self-healing, and highly secure environments.
+As a Workflow Automation Specialist, I help businesses transform how they operate. My focus is on diving deep into a client's existing business processes those step by step sequences that define how work gets done. I then identify areas where manual, repetitive, or error-prone tasks are creating bottlenecks or wasting valuable time.
+
+With that understanding, I design and build custom automation solutions using Python. This isn't about shoehorning a client into a rigid, off the shelf platform; it's about crafting tailored software that integrates seamlessly with their current systems. My ultimate goal is to empower businesses by making their operations more efficient, accurate, and scalable, allowing their teams to focus on strategic work rather than getting bogged down in routine tasks.
 
 ---
 
