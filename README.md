@@ -53,11 +53,20 @@ As an AI Systems & Security Automation Architect, I specialize in developing and
 
 Here are some projects that highlight my capabilities in AI, automation, and security:
 
-* **[AnythingLLM Agents](https://github.com/MiguelAutomate/AnythingLLM-Agents)** - Custom AI agent implementations for the AnythingLLM framework, demonstrating enhanced autonomous operations and workflow automation.
-* **[NetRecon Pro](https://github.com/MiguelAutomate/NetRecon-Pro)** - An advanced network reconnaissance and security assessment toolkit designed to identify vulnerabilities and map network landscapes efficiently.
-* **[AutoGen Studio 0.4 Agents](https://github.com/MiguelAutomate/AutoGen-Studio-0.4-Agents)** - Specialized agent implementations within AutoGen Studio, showcasing custom functionalities for focused automation tasks.
-* **[Ollama Prompt Injector](https://github.com/MiguelAutomate/Ollama-Prompt-Injector)** - A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications.
-* **[Boost Bridge Acceleration](https://github.com/MiguelAutomate/Boost-Bridge-Acceleration)** - (In Development) A multilingual retail platform integrating AI-driven automation to optimize sales processes and customer engagement.
+* **[AnythingLLM Agents](https://github.com/MiguelAutomate/AnythingLLM-Agents)** 
+    - Custom AI agent implementations for the AnythingLLM framework, demonstrating enhanced autonomous operations and workflow automation.
+
+* **[NetRecon Pro](https://github.com/MiguelAutomate/NetRecon-Pro)** 
+    - An advanced network reconnaissance and security assessment toolkit designed to identify vulnerabilities and map network landscapes efficiently.
+
+* **[AutoGen Studio 0.4 Agents](https://github.com/MiguelAutomate/AutoGen-Studio-0.4-Agents)** 
+    - Specialized agent implementations within AutoGen Studio, showcasing custom functionalities for focused automation tasks.
+
+* **[Ollama Prompt Injector](https://github.com/MiguelAutomate/Ollama-Prompt-Injector)** 
+    - A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications.
+
+* **[Boost Bridge Acceleration](https://github.com/MiguelAutomate/Boost-Bridge-Acceleration)** 
+    - (In Development) A multilingual retail platform integrating AI-driven automation to optimize sales processes and customer engagement.
 
 ---
 
