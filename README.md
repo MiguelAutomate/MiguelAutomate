@@ -1,4 +1,4 @@
-# Miguel Ocampo
+# Miguel Automate
 
 ## AI Systems & Security Automation Architect
 
