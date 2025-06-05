@@ -22,9 +22,13 @@ As an AI Systems & Security Automation Architect, I specialize in developing and
 ### **Core Expertise**
 
 * **Security Automation & Architecture:** Designing and implementing secure automation frameworks, integrating AI with existing infrastructure to proactively detect and respond to threats.
+
 * **AI Agent Development:** Crafting intelligent AI agents (e.g., LangChain, AutoGen) for autonomous operations, decision-making, and complex task execution.
+
 * **Cloud & DevSecOps:** Architecting secure, scalable cloud solutions (AWS, Azure, GCP) with a strong emphasis on DevSecOps principles and infrastructure as code (Terraform, Ansible).
+
 * **LLM Integration & MLOps:** Seamlessly integrating Large Language Models (LLMs) into applications and establishing robust MLOps pipelines for model deployment, monitoring, and lifecycle management.
+
 * **Network & Application Security:** In-depth knowledge of vulnerability assessment, penetration testing, and building resilient network and application defenses.
 
 ---
