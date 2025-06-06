@@ -61,7 +61,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 Here are some projects that highlight my capabilities in AI, automation, and security:
 
-* **[AnythingLLM Agents](https://github.com/MiguelAutomate/AnythingLLM-Agents)**
+* **[AnythingLLM Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)**
     * Custom AI agent implementations for the AnythingLLM framework, demonstrating enhanced autonomous operations and workflow automation.
 * **[NetRecon Pro](https://github.com/MiguelAutomate/NetRecon-Pro)**
     * An advanced network reconnaissance and security assessment toolkit designed to identify vulnerabilities and map network landscapes efficiently.
