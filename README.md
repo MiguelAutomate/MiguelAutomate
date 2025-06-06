@@ -65,7 +65,7 @@ Here are some projects that highlight my capabilities in AI, automation, and sec
     * Custom AI agent implementations for the AnythingLLM framework, demonstrating enhanced autonomous operations and workflow automation.
 * **[NetRecon Pro](https://github.com/MiguelAutomate/NetRecon-Pro)**
     * An advanced network reconnaissance and security assessment toolkit designed to identify vulnerabilities and map network landscapes efficiently.
-* **[AutoGen Studio 0.4 Agents](https://github.com/MiguelAutomate/AutoGen-Studio-0.4-Agents)**
+* **[AutoGen Studio 0.4 Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)**
     * Specialized agent implementations within AutoGen Studio, showcasing custom functionalities for focused automation tasks.
 * **[Ollama Prompt Injector](https://github.com/MiguelAutomate/Ollama-Prompt-Injector)**
     * A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications, enhancing LLM security posture by identifying various types of vulnerabilities.
