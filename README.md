@@ -41,7 +41,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 | Category                   | Technologies                                                                                                                                                                                                                                    |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **AI & Automation** | LangChain, AutoGen, Ollama, PyAutoGUI, OpenCV, Transformers, TensorFlow, PyTorch, Keras, Custom LLM Integration, Prompt Engineering                                                                                                                  |
+| **AI & Automation** | LangChain, AutoGen, Ollama, PyAutoGUI, OpenCV, Transformers, TensorFlow, PyTorch, Keras, Custom LLM Integration, Prompt Engineering, Composio,                                                                                                                  |
 | **Infrastructure & Cloud** | AWS (EC2, S3, Lambda, CloudWatch), Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Linux, Apache, Nginx, PostgreSQL, MongoDB                                                                                                                        |
 | **Security Tools** | Nmap, Wireshark, Burp Suite, Metasploit, SIEM (Splunk, ELK), IDS/IPS, pfSense, Custom Security Automation Tools                                                                                                                                      |
 
