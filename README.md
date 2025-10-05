@@ -73,7 +73,7 @@ Here are some projects that highlight my capabilities in AI, automation, and sec
     * A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications, enhancing LLM security posture by identifying various types of vulnerabilities.
 * **[Boost Bridge Acceleration](https://github.com/MiguelAutomate/Boost-Bridge-Acceleration)**
     * (In Development) A multilingual retail platform leveraging AI-driven automation to revolutionize sales processes and elevate customer engagement.
-* **[Contractor Services](https://github.com/MiguelAutomate/Contractor-Services)**
+* **[Construction Contractor Services](https://github.com/MiguelAutomate/Contractor-Services)**
     * A comprehensive automation suite built for construction contractors, integrating lead generation, CRM management, bilingual communication, invoicing, and client reporting all powered by n8n and AI-driven workflows to streamline operations and scale contractor businesses.
 
 ---
