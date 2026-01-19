@@ -63,18 +63,14 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 Here are some projects that highlight my capabilities in AI, automation, and security:
 
-* **[AnythingLLM Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)**
-    * Custom AI agent implementations for the AnythingLLM framework, demonstrating enhanced autonomous operations and workflow automation.
-* **[NetRecon Pro](https://github.com/MiguelAutomate/NetRecon-Pro)**
-    * An advanced network reconnaissance and security assessment toolkit designed to identify vulnerabilities and map network landscapes efficiently.
-* **[AutoGen Studio 0.4 Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)**
-    * Specialized agent implementations within AutoGen Studio, showcasing custom functionalities for focused automation tasks.
-* **[Ollama Prompt Injector](https://github.com/MiguelAutomate/Ollama-Prompt-Injector)**
-    * A robust security testing tool for analyzing and mitigating prompt injection vulnerabilities in LLM-based applications, enhancing LLM security posture by identifying various types of vulnerabilities.
-* **[Boost Bridge Acceleration](https://github.com/MiguelAutomate/Boost-Bridge-Acceleration)**
-    * (In Development) A multilingual retail platform leveraging AI-driven automation to revolutionize sales processes and elevate customer engagement.
-* **[Construction Contractor Services](https://github.com/MiguelAutomate/Contractor-Services)**
-    * A comprehensive automation suite built for construction contractors, integrating lead generation, CRM management, bilingual communication, invoicing, and client reporting all powered by n8n and AI-driven workflows to streamline operations and scale contractor businesses.
+* **[Contractor-Services](https://github.com/MiguelAutomate/Contractor-Services)**
+    * End-to-end automation system for contractors and remodelers powered by n8n workflows and smart bilingual communication. Handles lead generation, follow-ups, invoicing, dispatching, and reporting.
+* **[AutoGenStudio-Custom-Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)**
+    * Custom agents for AutogenStudio 0.4, including specialized tools and configurations for enhanced human-in-loop conversations and complex task automation.
+* **[AnythingLLM-Custom-Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)**
+    * A collection of custom AnythingLLM agents designed to enhance automation, knowledge retrieval, and AI-driven workflows.
+* **[Windows-File-Cleaner](https://github.com/MiguelAutomate/Windows-File-Cleaner)**
+    * A batch script for Windows 11 that cleans temporary files, frees up disk space, and enhances system performance.
 
 ---
 
