@@ -1,5 +1,5 @@
 # Miguel Automate
-![TryHackMe Profile](https://tryhackme.com/badge/3338653)
+
 ## DevOps Automation Specialist | AI & Security Innovator
 
 ### **Transforming Operations through Secure AI & Automation**
