@@ -1,4 +1,4 @@
-# Miguel Automate 🚀
+# Miguel Automate
 
 ## DevOps Automation Specialist | AI & Security Innovator
 
@@ -6,7 +6,7 @@
 
 ---
 
-### 👋 About Me
+### About Me
 
 As a Workflow Automation Specialist, I empower businesses to revolutionize their operations. My approach involves a deep dive into existing business processes, meticulously identifying manual, repetitive, or error-prone tasks that hinder efficiency and waste valuable resources.
 
@@ -14,7 +14,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ---
 
-### 🎓 Education & Certifications
+### Education & Certifications
 
 * **B.S. Cybersecurity**, Western Governors University (Expected 2027)
 * **CompTIA Security+** (2023) - *Demonstrates foundational cybersecurity knowledge and skills.*
@@ -23,7 +23,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ---
 
-### 💡 Core Expertise
+### Core Expertise
 
 * **Security Automation & Architecture:** Designing and implementing robust security automation frameworks, integrating AI to proactively detect and respond to threats within existing infrastructure.
 
@@ -37,7 +37,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 | Category                   | Technologies                                                                                                                                                                                                                                    |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -49,7 +49,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ---
 
-### ✨ What I Do & How I Deliver Value
+### What I Do & How I Deliver Value
 
 * **Architect & Deploy Advanced AI Agents:** I design, develop, and deploy sophisticated AI agent systems that autonomously manage complex tasks, from IT operations to security incident response.
 * **Fortify Systems with AI-Driven Security:** I build custom security automation frameworks that integrate LLMs to enhance threat detection, automate vulnerability assessments, and streamline incident remediation.
@@ -59,7 +59,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 Here are some projects that highlight my capabilities in AI, automation, and security:
 
@@ -74,7 +74,7 @@ Here are some projects that highlight my capabilities in AI, automation, and sec
 
 ---
 
-### 🤝 Let's Connect!
+### Let's Connect!
 
 I'm always open to collaborating on innovative projects and discussing advancements in AI, security, and automation. Feel free to reach out!
 
