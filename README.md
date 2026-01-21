@@ -16,7 +16,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ### Education & Certifications
 
-* **B.S. Cybersecurity**, Western Governors University (Expected 2027)
+* **B.S. Cybersecurity**, Western Governors University
 * **CompTIA Security+** (2023) - *Demonstrates foundational cybersecurity knowledge and skills.*
 * **CompTIA Network+** (2023) - *Validates expertise in networking concepts and infrastructure.*
 * **CompTIA A+** (2022) - *Confirms proficiency in IT hardware and software technologies.*
