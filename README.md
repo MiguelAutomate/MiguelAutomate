@@ -45,7 +45,7 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 | **Infrastructure & Cloud** | AWS (EC2, S3, Lambda, CloudWatch), Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Linux, Apache, Nginx, PostgreSQL, MongoDB, Supabase                                                                                                                        |
 | **Networking Engineering** | IPSec (including StrongSwan), Python (for networking tasks and automation), NIAP certification processes, Internet Protocols, Network Configurations, VPN (Virtual Private Network), IDS/IPS
 | **Security & Troubleshooting** | Nmap, Wireshark, Burp Suite, Metasploit, SIEM (Splunk, ELK Stack), pfSense, Custom Security Automation Tools, Port Scanning, Dynamic IP Range Scanning
-| **Operating Systems & Virtualization** | Ubuntu 24.04 LTS, Parrot OS, Kali Linux, Raspberry Pi OS, Windows, Linux Mint, Fedora, AlmaLinux, AppArmor (Security Kernel), SELinux (Security-Enhanced Linux Kernel)                                                                                                                                      |
+| **Operating Systems & Virtualization** | Ubuntu 24.04 LTS, Parrot OS, Kali Linux, Raspberry Pi OS, Windows(10/11), Linux Mint, Fedora, AlmaLinux, AppArmor (Security Kernel), SELinux (Security-Enhanced Linux Kernel)                                                                                                                                      |
 
 ---
 
