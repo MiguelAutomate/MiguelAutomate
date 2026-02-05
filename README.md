@@ -74,6 +74,15 @@ Here are some projects that highlight my capabilities in AI, automation, and sec
 
 ---
 
+### Portfolio & Services
+
+* **[Portfolio](https://miguelautomate.github.io/)**
+* **[Construction Contractors Service](https://miguelautomate.github.io/contractor-services.html)**
+* **[AI Red Teaming / Pen Test Service](https://miguelautomate.github.io/injectionvault.html)**
+* **[Julia Language Learning Materials](https://miguelautomate.github.io/JuliaLearning.html)**
+
+---
+
 ### Let's Connect!
 
 I'm always open to collaborating on innovative projects and discussing advancements in AI, security, and automation. Feel free to reach out!
