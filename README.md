@@ -97,21 +97,10 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ---
 
-### Connect & Services
+### Connect
 
-* **[Agentic Security Audits](https://miguelautomate.com/services.html)** - Black-box AI agent testing and vulnerability assessment
 * **[Schedule a Call](https://calendly.com/injectionvault-proton/30min)** - Book a consultation to discuss your audit needs
 * **[Email](mailto:miguelaocampo@proton.me)** - Direct contact for inquiries
-
----
-
-### Let's Connect!
-
-I'm always open to collaborating on innovative projects and discussing advancements in AI, security, and automation. Feel free to reach out!
-
-* **LinkedIn:** [Miguel Ocampo](https://www.linkedin.com/in/miguel-0campo/)
-* **Email:** [miguelaocampo@proton.me](mailto:miguelaocampo@proton.me)
-* **GitHub:** [MiguelAutomate](https://github.com/MiguelAutomate)
 
 ---
 
