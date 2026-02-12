@@ -1,16 +1,18 @@
 # Miguel Automate
 
-## DevOps Automation Specialist | AI & Security Innovator
+## AI Red Teamer & Automation Architect
 
-### **Transforming Operations through Secure AI & Automation**
+### **Red Teaming the Future of AI**
 
 ---
 
 ### About Me
 
-As a Workflow Automation Specialist, I empower businesses to revolutionize their operations. My approach involves a deep dive into existing business processes, meticulously identifying manual, repetitive, or error-prone tasks that hinder efficiency and waste valuable resources.
+As an AI Red Teamer and Automation Architect, I work at the intersection of generative AI and offensive security. I don't just build agents. I find breaking points in logic, leaks in data flows, and vulnerabilities in orchestration layers so businesses can scale with LLMs without sacrificing security or operational integrity.
 
-Leveraging this understanding, I design and build bespoke automation solutions primarily using Python. My philosophy isn't about fitting a client into a rigid, off-the-shelf platform; it's about crafting tailored software that integrates seamlessly with their current systems. Ultimately, my goal is to enhance operational efficiency, accuracy, and scalability, freeing teams to focus on strategic initiatives rather than getting bogged down in routine tasks.
+I start with a deep dive into existing business processes to identify manual, repetitive, or error-prone tasks, then design bespoke automation solutions primarily using Python. My philosophy isn't about fitting teams into rigid, off-the-shelf platforms; it's about crafting tailored software that integrates seamlessly with current systems.
+
+I specialize in AI red teaming for audit reports, including jailbreaks, prompt injection, data poisoning, and insecure output handling in complex RAG pipelines. The outcome is clear, actionable findings that harden AI systems.
 
 ---
 
@@ -25,15 +27,17 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ### Core Expertise
 
-* **Security Automation & Architecture:** Designing and implementing robust security automation frameworks, integrating AI to proactively detect and respond to threats within existing infrastructure.
+* **Adversarial Testing for LLM Systems:** Comprehensive black-box audits of AI agents, multi-agent systems, and orchestration layers using evidence-first methodology (TRACE → BREACH → IMPACT → PROOF).
 
-* **AI Agent Development:** Crafting intelligent AI agents (e.g., LangChain, AutoGen) for autonomous operations, enabling advanced decision-making and complex task execution.
+* **Prompt Injection & RAG Risk Analysis:** Deep analysis of vulnerability vectors in Retrieval-Augmented Generation pipelines, context injection points, and intent-drift exploitation.
 
-* **Cloud & DevSecOps:** Architecting secure, scalable cloud solutions (AWS, Azure, GCP) with a strong emphasis on DevSecOps principles and infrastructure as code (Terraform, Ansible).
+* **Agent Architecture & Trust Boundaries:** Identifying breakdowns in agent-to-agent handoffs, tool authorization failures, and escalation pathways in autonomous systems.
 
-* **LLM Integration & MLOps:** Seamlessly integrating Large Language Models (LLMs) into applications and establishing robust MLOps pipelines for efficient model deployment, monitoring, and lifecycle management.
+* **AI Security & Hardening:** Mitigation strategies for jailbreaks, data poisoning, output manipulation, and insecure delegations in multi-agent workflows.
 
-* **Network & Application Security:** In-depth knowledge of vulnerability assessment, penetration testing, and building resilient network and application defenses.
+* **Bespoke Automation Solutions:** Custom Python-based automation systems designed to streamline operations while maintaining security and auditability standards.
+
+* **Cloud & DevSecOps:** Architecting secure, scalable cloud solutions (AWS, Azure, GCP) with infrastructure-as-code principles and security-first practices.
 
 ---
 
@@ -51,35 +55,53 @@ Leveraging this understanding, I design and build bespoke automation solutions p
 
 ### What I Do & How I Deliver Value
 
-* **Architect & Deploy Advanced AI Agents:** I design, develop, and deploy sophisticated AI agent systems that autonomously manage complex tasks, from IT operations to security incident response.
-* **Fortify Systems with AI-Driven Security:** I build custom security automation frameworks that integrate LLMs to enhance threat detection, automate vulnerability assessments, and streamline incident remediation.
-* **Automate & Optimize Cloud Infrastructure:** I leverage Infrastructure as Code (Terraform, Ansible) to provision, configure, and manage highly secure and scalable cloud environments on AWS, Azure, and GCP.
-* **Implement Robust MLOps Pipelines:** I establish end-to-end MLOps pipelines for efficient deployment, monitoring, and continuous improvement of AI models, ensuring reliability and performance.
-* **Develop Bespoke Security Tools:** I create specialized tools for security testing, vulnerability assessment, and proactive threat hunting, significantly reducing manual effort and improving security posture.
+* **Red Team Your AI Agents:** Conduct comprehensive black-box audits of your LLM-powered systems, exposing vulnerabilities before attackers do. Independent, evidence-backed findings with reproducible PoCs.
+
+* **Evidence-First Reporting:** Every finding follows the TRACE → BREACH → IMPACT → PROOF methodology, paired with a trust-boundary map and OWASP LLM Top 10 alignment for actionable remediation.
+
+* **Secure Agent Architecture:** Design intrinsically safer multi-agent systems with proper intent verification, granular tool authorization, and auditability built into orchestration layers.
+
+* **Build Resilient Automation:** Architect bespoke automation solutions that integrate seamlessly with existing infrastructure while maintaining security posture and operational transparency.
+
+* **Custom Security Frameworks:** Develop tailored security automation frameworks that leverage AI for threat detection, vulnerability management, and incident response within your specific operational context.
+
+---
+
+### Featured Services
+
+**Agentic Security Audits (AI Red Teaming)** - [Learn More](https://miguelautomate.com/services.html)
+* Black-box security audits for AI agents and multi-agent systems
+* Evidence-first findings with reproducible PoCs (TRACE → BREACH → IMPACT → PROOF)
+* No code access or prompt sharing required
+* Trust-boundary mapping and OWASP LLM Top 10 alignment
+* Accelerated and deep engagement packages available
 
 ---
 
 ### Featured Projects
 
-Here are some projects that highlight my capabilities in AI, automation, and security:
+**Case Studies**
+* **[OpSyncAI Red Team Report](https://miguelautomate.com/opsyncia.html)** - Comprehensive adversarial assessment of a multi-agent orchestrator identifying critical intent-verification failures and tool abuse pathways.
 
-* **[Contractor-Services](https://github.com/MiguelAutomate/Contractor-Services)**
-    * End-to-end automation system for contractors and remodelers powered by n8n workflows and smart bilingual communication. Handles lead generation, follow-ups, invoicing, dispatching, and reporting.
-* **[AutoGenStudio-Custom-Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)**
-    * Custom agents for AutogenStudio 0.4, including specialized tools and configurations for enhanced human-in-loop conversations and complex task automation.
-* **[AnythingLLM-Custom-Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)**
-    * A collection of custom AnythingLLM agents designed to enhance automation, knowledge retrieval, and AI-driven workflows.
-* **[Windows-File-Cleaner](https://github.com/MiguelAutomate/Windows-File-Cleaner)**
-    * A batch script for Windows 11 that cleans temporary files, frees up disk space, and enhances system performance.
+**Open Source**
+* **[AutoGenStudio-Custom-Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)** - Custom agents for AutoGen Studio with specialized tools and configurations for enhanced human-in-loop conversations.
+* **[AnythingLLM-Custom-Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)** - A collection of custom AnythingLLM agents designed for automation and knowledge retrieval workflows.
+* **[Contractor-Services](https://github.com/MiguelAutomate/Contractor-Services)** - End-to-end automation system for contractors powered by n8n workflows and intelligent communication.
 
 ---
 
-### Portfolio & Services
+### Portfolio
 
-* **[Portfolio](https://miguelautomate.github.io/)**
-* **[Construction Contractors Service](https://miguelautomate.github.io/contractor-services.html)**
-* **[AI Red Teaming / Pen Test Service](https://miguelautomate.github.io/injectionvault.html)**
-* **[Julia Language Learning Materials](https://miguelautomate.github.io/JuliaLearning.html)**
+* **[Portfolio Website](https://miguelautomate.com/)** - AI Red Teaming & Automation Architecture
+* **[Case Study](https://miguelautomate.com/opsyncia.html)** - Real-world red teaming findings and remediation strategies
+
+---
+
+### Connect & Services
+
+* **[Agentic Security Audits](https://miguelautomate.com/services.html)** - Black-box AI agent testing and vulnerability assessment
+* **[Schedule a Call](https://calendly.com/injectionvault-proton/30min)** - Book a consultation to discuss your audit needs
+* **[Email](mailto:miguelaocampo@proton.me)** - Direct contact for inquiries
 
 ---
 
@@ -93,4 +115,4 @@ I'm always open to collaborating on innovative projects and discussing advanceme
 
 ---
 
-*Securing systems, automating workflows, and bridging AI with infrastructure – driving innovation from concept to deployment.*
+*Red teaming the future of AI—securing systems, auditing workflows, and bringing attackers' perspective to your agent architecture.*
