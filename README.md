@@ -86,15 +86,11 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 **Open Source**
 * **[AutoGenStudio-Custom-Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)** - Custom agents for AutoGen Studio with specialized tools and configurations for enhanced human-in-loop conversations.
 * **[AnythingLLM-Custom-Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)** - A collection of custom AnythingLLM agents designed for automation and knowledge retrieval workflows.
-* **[Contractor-Services](https://github.com/MiguelAutomate/Contractor-Services)** - End-to-end automation system for contractors powered by n8n workflows and intelligent communication.
-
 ---
 
 ### Portfolio
 
 * **[Portfolio Website](https://miguelautomate.com/)** - AI Red Teaming & Automation Architecture
-* **[Case Study](https://miguelautomate.com/opsyncia.html)** - Real-world red teaming findings and remediation strategies
-
 ---
 
 ### Connect
