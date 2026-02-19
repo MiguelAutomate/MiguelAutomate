@@ -78,8 +78,6 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ### Featured Projects
 
-### **Red Teaming the Future of AI**
-
 **Case Studies**
 * **[OpSyncAI Red Team Report](https://miguelautomate.com/opsyncia.html)** 
 - Technical analysis of a critical multi-agent orchestrator vulnerability chain (CVSS 9.3) that bypasses intent verification through persona adoption attacks, enabling unauthorized extraction of CRM schemas, weaponization of content engines with stealth payloads, and persistent brand poisoning via axiomatic truth injection.
