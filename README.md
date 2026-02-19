@@ -81,7 +81,8 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 ### Featured Projects
 
 **Case Studies**
-* **[OpSyncAI Red Team Report](https://miguelautomate.com/opsyncia.html)** - Comprehensive adversarial assessment of a multi-agent orchestrator identifying critical intent-verification failures and tool abuse pathways.
+* **[OpSyncAI Red Team Report](https://miguelautomate.com/opsyncia.html)** - Technical analysis of a critical multi-agent orchestrator vulnerability chain (CVSS 9.3) that bypasses intent verification through persona adoption attacks, enabling unauthorized extraction of CRM schemas, weaponization of content engines with stealth payloads, and persistent brand poisoning via axiomatic truth injection.
+* **[PrismGPT Variable Substitution Jailbreak](https://miguelautomate.com/PrismGPT.html)** - Technical dissection of a critical prompt injection vulnerability (CVSS 9.8) that bypasses AI alignment guardrails through semantic obfuscation and token smuggling techniques, demonstrating complete safety protocol deactivation via variable re-mapping attacks.
 
 **Open Source**
 * **[AutoGenStudio-Custom-Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)** - Custom agents for AutoGen Studio with specialized tools and configurations for enhanced human-in-loop conversations.
