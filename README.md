@@ -3,7 +3,7 @@
 ## AI Red Teamer & Automation Architect - **[Portfolio Website](https://miguelautomate.com/)**
 
 
-### About Me
+## About Me
 
 As an AI Red Teamer and Automation Architect, I work at the intersection of generative AI and offensive security. I don't just build agents. I find breaking points in logic, leaks in data flows, and vulnerabilities in orchestration layers so businesses can scale with LLMs without sacrificing security or operational integrity.
 
@@ -13,7 +13,7 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ---
 
-### Education & Certifications
+## Education & Certifications
 
 ---
 
@@ -25,7 +25,7 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ---
 
-### Core Expertise
+## Core Expertise
 
 ---
 
