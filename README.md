@@ -109,5 +109,9 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ### Connect
 
+---
+
 * **[Schedule a Call](https://calendly.com/injectionvault-proton/30min)** - Book a consultation to discuss your audit needs
 * **[Email](mailto:miguelaocampo@proton.me)** - Direct contact for inquiries
+  
+---
