@@ -16,6 +16,9 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ### Education & Certifications
 
+---
+
+
 * **B.S. Cybersecurity**, Western Governors University
 * **CompTIA Security+** (2023) - *Demonstrates foundational cybersecurity knowledge and skills.*
 * **CompTIA Network+** (2023) - *Validates expertise in networking concepts and infrastructure.*
@@ -24,6 +27,9 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 ---
 
 ### Core Expertise
+
+---
+
 
 * **Adversarial Testing for LLM Systems:** Comprehensive black-box audits of AI agents, multi-agent systems, and orchestration layers using evidence-first methodology (TRACE → BREACH → IMPACT → PROOF).
 
@@ -41,6 +47,9 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ### Tech Stack
 
+---
+
+
 | Category                   | Technologies                                                                                                                                                                                                                                    |
 | :------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **AI & Automation** | LangChain, AutoGen & AG Studio 0.4, Ollama, PyAutoGUI, OpenCV, Transformers, TensorFlow, PyTorch, Keras, Custom LLM Integration, Prompt Engineering, AnythingLLM, Composio, SuperAGI, CrewAI, Microsoft Copilot 365, Power Automate, N8N, Zapier, LlamaIndex, Selenium, Agency Swarm, PromptingTools.jl, RAGTools.jl, Tesseract.jl, Puppeteer, Bun.js                                                                                                                  |
@@ -52,6 +61,9 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 ---
 
 ### What I Do & How I Deliver Value
+
+---
+
 
 * **Red Team Your AI Agents:** Conduct comprehensive black-box audits of your LLM-powered systems, exposing vulnerabilities before attackers do. Independent, evidence-backed findings with reproducible PoCs.
 
@@ -67,6 +79,8 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 
 ### Featured Services
 
+---
+
 **Agentic Security Audits (AI Red Teaming)** - [Learn More](https://miguelautomate.com/services.html)
 * Black-box security audits for AI agents and multi-agent systems
 * Evidence-first findings with reproducible PoCs (TRACE → BREACH → IMPACT → PROOF)
@@ -77,6 +91,9 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 ---
 
 ### Featured Projects
+
+---
+
 
 **Case Studies**
 * **[OpSyncAI Red Team Report](https://miguelautomate.com/opsyncia.html)** 
