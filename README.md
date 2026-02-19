@@ -5,12 +5,9 @@
 
 ## About Me
 
-I am an **AI Red Teamer and Automation Architect** operating at the critical intersection where generative AI innovation meets offensive security. I don't just build agents; I systematically identify logical breaking points, data flow leakages, and orchestration vulnerabilities before they manifest as business-critical incidents.
+I am an **AI Red Teamer and Automation Architect** operating at the critical intersection where generative AI innovation meets offensive security. I don't just build agents I systematically identify logical breaking points, data flow leakages, and orchestration vulnerabilities before they manifest as business critical incidents.
 
 I specialize in **comprehensive AI security audits**. My approach begins with a forensic dive into existing business processes to pinpoint attack surfaces, followed by the development of bespoke automation primarily in **Julia, Bash and Python** for adversarial threats. 
-
-The result of my engagements is never just a list of bugs; it is a strategic roadmap of actionable findings that transform theoretical vulnerabilities into concrete hardening strategies.
-
 ---
 
 ## Featured Projects
@@ -68,9 +65,9 @@ I follow a rigorous, evidence-first methodology for all security engagements: **
 ## Education & Certifications
 
 * **B.S. Cybersecurity**, Western Governors University
-* **CompTIA Security+** (2023) - *Demonstrates foundational cybersecurity knowledge and skills.*
-* **CompTIA Network+** (2023) - *Validates expertise in networking concepts and infrastructure.*
-* **CompTIA A+** (2022) - *Confirms proficiency in IT hardware and software technologies.*
+* **CompTIA Security+** (2023) - *Foundational cybersecurity knowledge and skills.*
+* **CompTIA Network+** (2023) - *Expertise in networking concepts and infrastructure.*
+* **CompTIA A+** (2022) - *Proficiency in IT hardware and software technologies.*
 
 ---
 
