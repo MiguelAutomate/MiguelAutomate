@@ -1,6 +1,7 @@
 # Miguel Automate
 
-### AI Red Teamer & Automation Architect - **[Portfolio Website](https://miguelautomate.com/)**
+## AI Red Teamer & Automation Architect - **[Portfolio Website](https://miguelautomate.com/)**
+
 
 ### About Me
 
