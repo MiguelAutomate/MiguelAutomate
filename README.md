@@ -92,16 +92,7 @@ I specialize in AI red teaming for audit reports, including jailbreaks, prompt i
 * **[AnythingLLM-Custom-Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)** - A collection of custom AnythingLLM agents designed for automation and knowledge retrieval workflows.
 ---
 
-### Portfolio
-
-* **[Portfolio Website](https://miguelautomate.com/)** - AI Red Teaming & Automation Architecture
----
-
 ### Connect
 
 * **[Schedule a Call](https://calendly.com/injectionvault-proton/30min)** - Book a consultation to discuss your audit needs
 * **[Email](mailto:miguelaocampo@proton.me)** - Direct contact for inquiries
-
----
-
-*Red teaming the future of AI—securing systems, auditing workflows, and bringing attackers' perspective to your agent architecture.*
