@@ -25,7 +25,7 @@ I specialize in **comprehensive AI security audits**. My approach begins with a 
 ## Core Expertise
 
 
-I follow a rigorous, evidence-first methodology for all security engagements: **TRACE → BREACH → IMPACT → PROOF**.
+I follow an evidence-first methodology for all security engagements: **TRACE → BREACH → IMPACT → PROOF**.
 
 *   **Adversarial Testing for LLM Systems:** Black-box audits of AI agents and multi-agent systems. I don't just find vulnerabilities; I demonstrate business impact through reproducible attack chains.
 *   **Prompt Injection & RAG Risk Analysis:** Forensic analysis of Retrieval-Augmented Generation pipelines, mapping trust boundaries where data flows break down.
@@ -146,8 +146,3 @@ I follow a rigorous, evidence-first methodology for all security engagements: **
 | **Collaboration Tools**      | Slack, Microsoft Teams, Discord, Mattermost, Rocket.Chat, Jira, Confluence, Trello, Asana                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **Database Systems**         | PostgreSQL, MySQL/MariaDB, MongoDB, Redis, SQLite, Cassandra, DynamoDB, Snowflake, Supabase, Neo4j, InfluxDB                                                                                                                                                                                                                                                                                                                                                                                              |
 | **Message Brokers**          | RabbitMQ, Apache Kafka, Amazon SQS, Redis Pub/Sub, NATS, ActiveMQ                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-
-
----
-  
----
