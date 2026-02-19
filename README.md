@@ -8,6 +8,7 @@
 I am an **AI Red Teamer and Automation Architect** operating at the critical intersection where generative AI innovation meets offensive security. I don't just build agents I systematically identify logical breaking points, data flow leakages, and orchestration vulnerabilities before they manifest as business critical incidents.
 
 I specialize in **comprehensive AI security audits**. My approach begins with a forensic dive into existing business processes to pinpoint attack surfaces, followed by the development of bespoke automation primarily in **Julia, Bash and Python** for adversarial threats. 
+
 ---
 
 ## Featured Projects
