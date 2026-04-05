@@ -1,4 +1,4 @@
-# Miguel Automate
+# Miguel Ocampo
 
 ## AI Red Teamer & Automation Architect - **[Portfolio Website](https://miguelautomate.com/)**
 
