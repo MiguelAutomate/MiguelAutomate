@@ -20,12 +20,12 @@ I specialize in **comprehensive AI security audits**. My approach begins with a 
 
 **Software & Security Tooling**
 * **[ZeroSilenceAI](https://miguelautomate.github.io/ZeroSilenceDemoPage.html)** ([Whitepaper](https://miguelautomate.github.io/ZeroSilenceAI-Whitepaper.html)) - In-progress Cyber Reasoning System: an autonomous agentic security scanner that hunts vulnerabilities in AI agent frameworks before attackers do. Built on Bun with real Tree-sitter parsing, a No-Silent-Failure error taxonomy, and a threshold-gating decision engine.
-* **[vortexVote](https://miguelautomate.github.io/vortexVoteDemo.html)** ([Whitepaper](https://miguelautomate.github.io/Whitepaper-Vortex-Vote.html)) - Dependency-free JS/Bun threshold-gating decision engine with Fast/Middle/Slow evaluation paths, built on No Silent Failure principles.
-* **[ShadowClone](https://miguelautomate.github.io/Demo-ShadowClone.html)** ([Module Doc](https://miguelautomate.github.io/shadowClone.html)) - Hardened JS module framework for resilient automation — scoped resource management, rate/duration/concurrency defense, and a No-Silent-Failure error taxonomy.
 * **[InjectionVault](https://miguelautomate.github.io/injectionvault.html)** - Live informational page for an AI Red Teaming and Penetration Testing service — methodology for stress-testing LLM integrations and AI infrastructure.
 * **[Julia Learning](https://miguelautomate.github.io/JuliaLearning.html)** - A dedicated learning resource and documentation page exploring high-performance numerical analysis and automation research using the Julia language.
 
 **Open Source**
+* **[vortexVote](https://miguelautomate.github.io/vortexVoteDemo.html)** ([Whitepaper](https://miguelautomate.github.io/Whitepaper-Vortex-Vote.html)) - Dependency-free JS/Bun threshold-gating decision engine with Fast/Middle/Slow evaluation paths, built on No Silent Failure principles.
+* **[ShadowClone](https://miguelautomate.github.io/Demo-ShadowClone.html)** ([Module Doc](https://miguelautomate.github.io/shadowClone.html)) - Hardened JS module framework for resilient automation — scoped resource management, rate/duration/concurrency defense, and a No-Silent-Failure error taxonomy.
 * **[AutoGenStudio-Custom-Agents](https://github.com/MiguelAutomate/AutoGenStudio-Custom-Agents)** - Custom agents for AutoGen Studio with specialized tools and configurations for enhanced human-in-loop conversations.
 * **[AnythingLLM-Custom-Agents](https://github.com/MiguelAutomate/AnythingLLM-Custom-Agents)** - A collection of custom AnythingLLM agents designed for automation and knowledge retrieval workflows.
 * **[Windows File Cleaner](https://github.com/MiguelAutomate/Windows-File-Cleaner)** - Batch script for Windows 11 to automate the removal of temporary files and enhance system performance securely.
