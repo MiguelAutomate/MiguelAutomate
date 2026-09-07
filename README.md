@@ -15,7 +15,7 @@ export default {
   },
   methodology: 'TRACE → BREACH → IMPACT → PROOF',
   proofOfWork: {
-    criticalFindings: 2,
+    criticalFindings: 4,
     openSourceProjects: 5
   },
   sideEffects: true
