@@ -4,7 +4,7 @@ export default {
   alias: 'MiguelAutomate',
   desc: 'breaking agents before they break your business',
   type: 'human agent',
-  roles: ['AI red teamer', 'Automation Architect', 'Security Researcher', 'OSS Author'],
+  roles: ['AI Red Teamer', 'Automation Architect', 'Security Researcher', 'OSS Author'],
   currentFocus: ['agentic security', 'LLM red teaming'],
   interests: ['NeuroScience', 'JavaScript', 'Mechanical Engineering'],
 
