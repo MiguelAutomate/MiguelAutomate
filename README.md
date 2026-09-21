@@ -5,7 +5,7 @@ export default {
   desc: 'breaking agents before they break your business',
   type: 'human agent',
   roles: ['AI Red Teamer', 'Automation Architect', 'Security Researcher', 'OSS Author'],
-  currentFocus: ['agentic security', 'LLM red teaming'],
+  currentFocus: ['Agentic Security', 'LLM Red Teaming'],
   interests: ['NeuroScience', 'JavaScript', 'Mechanical Engineering'],
 
   locale: {
