@@ -6,9 +6,8 @@ export default {
   type: 'human agent',
   roles: ['AI red teamer', 'automation architect', 'security researcher', 'OSS author'],
   currentFocus: ['agentic security', 'LLM red teaming'],
-  interests: ['neuroscience', 'JavaScript', 'mechanical engineering'],
-  education: 'B.S. Western Governors University',
-  alignment: 'lawful adversarial',
+  interests: ['NeuroScience', 'JavaScript', 'Mechanical Engineering'],
+
   locale: {
     current: 'La Jolla, California',
     origin: 'San Diego, California'
