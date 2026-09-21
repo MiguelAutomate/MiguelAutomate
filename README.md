@@ -28,5 +28,3 @@ export default {
 - [vortexVote](https://github.com/MiguelAutomate/vortexVote) — dependency-free threshold-gating rules engine
 
 **[Portfolio](https://miguelautomate.com/)** · **[Book a call](https://calendly.com/injectionvault-proton/30min)** · **[Email](mailto:miguelaocampo@proton.me)**
-
-Fill in the repo URLs and add a line under Work for the two critical findings if you c
